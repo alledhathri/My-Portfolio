@@ -8,13 +8,13 @@ This is a responsive and modern portfolio built using HTML and CSS. It serves as
 
  🧠 Features
 
- ✨ Clean and responsive design
- 🧑‍💻 Hero section introducing myself
- 📚 About Me section
-🛠️ Skills list
- 📂 Project showcase
- 🎓 Education details
- 📞 Contact information with clickable links
+ -✨ Clean and responsive design
+ -🧑‍💻 Hero section introducing myself
+ -📚 About Me section
+ -🛠️ Skills list
+ -📂 Project showcase
+ -🎓 Education details
+ -📞 Contact information with clickable links
 
  🛠️ Technologies Used
 - HTML
