@@ -8,19 +8,19 @@ This is a responsive and modern portfolio built using HTML and CSS. It serves as
 
  🧠 Features
 
- -✨ Clean and responsive design
+ ✨ Clean and responsive design
  
- -🧑‍💻 Hero section introducing myself
+ 🧑‍💻 Hero section introducing myself
  
- -📚 About Me section
+ 📚 About Me section
  
- -🛠️ Skills list
+ 🛠️ Skills list
  
- -📂 Project showcase
+ 📂 Project showcase
  
- -🎓 Education details
+ 🎓 Education details
  
- -📞 Contact information with clickable links
+ 📞 Contact information with clickable links
 
  🛠️ Technologies Used
 - HTML
@@ -42,9 +42,13 @@ You can view the live version by opening `index.html` in any web browser. For de
 Feel free to reach out or connect with me:
 
  📧 Email: [alledhathri@gmail.com](mailto:alledhathri@gmail.com)
+ 
  📞 Phone: [9381408350](tel:9381408350)
+ 
  💻 GitHub: [github.com/alledhathri](https://github.com/alledhathri)
+ 
  🔗 LinkedIn: [linkedin.com/in/alledhathri](https://linkedin.com/in/alledhathri)
+ 
  🧠 LeetCode: [leetcode.com/AlleDhathri](https://leetcode.com/AlleDhathri)
 
 
